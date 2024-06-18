@@ -2,6 +2,7 @@ products = {
     'kids': [
         {'name': 'Toy Car', 'price': 10.00, 'stock': 50},
         {'name': 'Kids Book', 'price': 5.00, 'stock': 100},
+        {'name':'Toy Bike','price':10.00,'stock':20}
         # Add more products as needed
     ],
     'girls': [
